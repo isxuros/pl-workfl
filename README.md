@@ -4,8 +4,11 @@
 - Create layout for workflow designer
 
 ** Bold **
+
 * Italic *
+* 
 ~~ Strkethrough ~~
+
 ** Bold _ and italic _ **
 
 The below is a quote:
